@@ -40,3 +40,5 @@ export const data = [
       infoClass: "high",
     },
   ];
+
+  export default data

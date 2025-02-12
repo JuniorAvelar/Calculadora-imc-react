@@ -1,5 +1,5 @@
 
-// import data from "./data/data"
+import data from './data/data'
 import { useState } from 'react'
 import ImcCalc from './components/ImcCalc'
 
@@ -30,7 +30,7 @@ function App() {
  
   return (
    <div className='container'>
-    {!imc ? <ImcCalc calcImc={calcImc} /> : <ImcTable/>}
+    {!imc ? <ImcCalc calcImc={calcImc} /> : <ImcTable data={data}/>}
    </div>
   )
 }
