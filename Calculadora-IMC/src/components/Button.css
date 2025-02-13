@@ -2,11 +2,12 @@
 button {
     text-transform: uppercase;
     padding: 1rem 1.5rem;
-    background-color: #f44236;
+    background-color: #023509;
     border: none;
     color: #fff;
     cursor: pointer;
     opacity: 0.8;
+    font-weight: bold;
     flex: 1;
 }
 
@@ -15,5 +16,5 @@ button:hover {
 }
 
 #clear-btn {
-    background-color: #444;
+    background-color: #e61818;
 }
