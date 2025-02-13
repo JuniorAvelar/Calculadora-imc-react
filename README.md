@@ -21,8 +21,11 @@ A aplicação foi estilizada com CSS puro para garantir um design limpo e agrad�
 # 🛠 Tecnologias utilizadas
 
 🔹 React.js – Para a estrutura e reatividade do app.
+
 🔹 useState – Para gerenciar os estados do formulário e do resultado.
+
 🔹 Componentização – Para manter o código modular e reutilizável.
+
 🔹 CSS – Para estilização da interface.
 
 # 📌 O que aprendi com este projeto?
